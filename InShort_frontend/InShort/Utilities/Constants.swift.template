@@ -1,0 +1,10 @@
+import Foundation
+
+#if DEBUG
+let DEBUG_USE_FAKE_DATA = true
+#else
+let DEBUG_USE_FAKE_DATA = false
+#endif
+
+let RECOMMENDATIONS_API_URL = URL(string: "http://127.0.0.1:8001/recommendations/")!
+let USE_LOCAL_OPERATIONS = true

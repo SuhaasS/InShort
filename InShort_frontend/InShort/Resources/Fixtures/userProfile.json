@@ -1,0 +1,15 @@
+{
+  "id": "user123",
+  "name": "Alex Johnson",
+  "age": 32,
+  "location": "Seattle, WA",
+  "interests": [
+    "Climate Change",
+    "Healthcare",
+    "Education",
+    "Technology",
+    "Veterans Affairs"
+  ],
+  "friends": [],
+  "subscriptions": []
+}
